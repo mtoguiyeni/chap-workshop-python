@@ -3,4 +3,4 @@ name = "chap-workshop-python"
 version = "0.1.0"
 description = "CHAP Workshop Python Example"
 requires-python = ">=3.9"
-dependencies = []
+dependencies = ["pydantic"]
